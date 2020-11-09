@@ -1,2 +1,2 @@
 # Medical-Client
-First Fluuter Project with Firebase
+First Flutter Project with Firebase
